@@ -9,6 +9,6 @@ Data Engineering Python Group Dog
   -  TBC
 
 ### HOW TO RUN: 
-- Install requirements.txt *(TODO: Add requirements.txt)*
+- Install requirements.txt *(TODO MH: Add requirements.txt)*
 - Run prj01.ipynb in jupyter-lab or jupyter-notebook
   
