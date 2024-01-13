@@ -1,8 +1,8 @@
-# data_engineering_py
+# Data Engineering Python Group Project
 Data Engineering Python Group Dog
 
 ### Structure 
-
+```bash
 .
 ├── README.md
 ├── cleaned
@@ -34,9 +34,7 @@ Data Engineering Python Group Dog
     ├── Hyp4_Fig2.png
     └── Hyp5_Fig1.png
 
-
-
-
+```
 - Code for Exploratory Data Analysis is in prj01.ipynb
 - Original data sources are in `data`, cleaned data is in `cleaned`
 
