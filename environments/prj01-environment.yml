@@ -1,0 +1,13 @@
+name: project_de
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - ipykernel
+  - numpy
+  - pandas
+  - seaborn
+  - geopandas
+  - statsmodels
+  - plotly
+prefix: project_de
