@@ -37,6 +37,8 @@ Data Engineering Python Group Dog
 ```
 - Code for Exploratory Data Analysis is in prj01.ipynb
 - Original data sources are in `data`, cleaned data is in `cleaned`
+- `environment` contains the conda environment.yml as `prj01-environment.yml`and the explicit specification files as `prj01-environment.txt`
+- Environments were tested on MacOS and Windows11
 
 ### HOW TO RUN: 
 
