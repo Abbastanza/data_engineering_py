@@ -1,5 +1,5 @@
 # Data Engineering Python Group Project
-Data Engineering Python Group Dog
+This notebook is for the implementation of task "2 Data Exploration and Analysis" for the Course Data Engineering Python. 
 
 ### Structure 
 ```bash
